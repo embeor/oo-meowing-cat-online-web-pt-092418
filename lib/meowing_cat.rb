@@ -6,7 +6,7 @@ class Cat
   end
 
   def name
-    @name
+    @meow
   end
 
 end
